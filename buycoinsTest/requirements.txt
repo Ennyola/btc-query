@@ -5,4 +5,4 @@ graphene-django==2.7.1
 graphql-core==2.2.1
 graphql-relay==2.0.1
 gunicorn==20.0.4
-requests==2.22.0
+requests==2.31.0
